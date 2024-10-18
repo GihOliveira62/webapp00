@@ -7,10 +7,10 @@ db.fillna('', inplace=True)
 Escrever(db)
 
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("dowajfodaslkvsdjiojsdf")
+st.title("fsaknsknancnx,nczx,mcx")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Hejheheheh! Prof. Massaki")
+st.header("geovana!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Sub Cabeçalho")
